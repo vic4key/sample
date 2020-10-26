@@ -1,3 +1,3 @@
 # Sample
 
-### jQuery + Bootstrap
+### jQuery + Bootstrap + FontAwesome
